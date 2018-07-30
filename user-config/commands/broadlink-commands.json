@@ -1,0 +1,37 @@
+{
+  "av-volumeUpLong":[
+    "av-volumeUpMedium",
+    "av-volumeUpMedium",
+    "av-volumeUpMedium"
+  ],
+  "av-volumeUpMedium": [
+    "av-volumeUp",
+    "av-volumeUp",
+    "av-volumeUp",
+    "av-volumeUp",
+    "av-volumeUp",
+    "av-volumeUp",
+    "av-volumeUp",
+    "av-volumeUp",
+    "av-volumeUp",
+    "av-volumeUp"
+  ],
+  "av-volumeDownLong":[
+    "av-volumeDownMedium",
+    "av-volumeDownMedium",
+    "av-volumeDownMedium"
+  ],
+  "av-volumeDownMedium": [
+    "av-volumeDown",
+    "av-volumeDown",
+    "av-volumeDown",
+    "av-volumeDown",
+    "av-volumeDown",
+    "av-volumeDown",
+    "av-volumeDown",
+    "av-volumeDown",
+    "av-volumeDown",
+    "av-volumeDown"
+  ]
+}
+

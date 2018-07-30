@@ -1,0 +1,177 @@
+{
+  "xboxOn":{
+    "broadlink":[
+      "av-xbox",
+      "xboxOn"
+    ],
+    "bravia":[
+      "xbox"
+    ]
+  },
+  "xboxOff":{
+    "broadlink":[
+      "av-power",
+      "xboxOff"
+    ],
+    "bravia":[
+      "PowerOff"
+    ]
+  },
+  "skysports1": {
+    "broadlink": [
+      "av-sky"
+    ],
+    "bravia": [
+      "sky"
+    ],
+    "sky": [
+      "skysports1"
+    ]
+  },
+  "btsports1": {
+    "tivo": [
+      "btsports1"
+    ],
+    "bravia": [
+      "tivo"
+    ],
+    "broadlink": [
+      "av-tv"
+    ]
+  },
+  "btsports2": {
+    "tivo": [
+      "btsports2"
+    ],
+    "bravia": [
+      "tivo"
+    ],
+    "broadlink": [
+      "av-tv"
+    ]
+  },
+  "netflix": {
+    "bravia": [
+      "Netflix"
+    ],
+    "broadlink": [
+      "av-tv"
+    ]
+  },
+  "media": {
+    "bravia": [
+      "media"
+    ],
+    "broadlink": [
+      "av-tv"
+    ]
+  },
+  "youtube": {
+    "bravia": [
+      "youtube"
+    ],
+    "broadlink": [
+      "av-tv"
+    ]
+  },
+  "tvon": {
+    "bravia": [
+      "Hdmi1"
+    ],
+    "broadlink": [
+      "av-tv"
+    ]
+  },
+  "tvoff": {
+    "bravia": [
+      "PowerOff"
+    ],
+    "broadlink": [
+      "av-power"
+    ]
+  },
+  "androidBoxOn": {
+    "bravia": [
+      "android"
+    ],
+    "broadlink": [
+      "av-tv",
+      "android-power"
+    ]
+  },
+  "skyOn": {
+    "bravia": [
+      "sky"
+    ],
+    "broadlink": [
+      "av-sky"
+    ],
+    "sky": [
+      "sky"
+    ]
+  },
+  "skyChannel": {
+    "bravia": [
+      "sky"
+    ],
+    "broadlink": [
+      "av-sky"
+    ],
+    "sky": [
+      "sky",
+      "3000",
+      "PARAM1"
+    ]
+  },
+  "movieNight": {
+    "bravia": [
+      "media"
+    ],
+    "broadlink": [
+      "av-tv"
+    ],
+    "livingRoomLights": [
+      "movieNight"
+    ]
+  },
+  "pauseMovieNight": {
+    "bravia": [
+      "Pause"
+    ],
+    "livingRoomLights": [
+      "pauseMovieNight"
+    ]
+  },
+  "resumeMovieNight": {
+    "bravia": [
+      "Play"
+    ],
+    "livingRoomLights": [
+      "movieNight"
+    ]
+  },
+  "restoreLights": {
+    "livingRoomLights": [
+      "restoreLight"
+    ]
+  },
+  "nightLight": {
+    "livingRoomLights": [
+      "nightLights"
+    ]
+  },
+  "partyLights": {
+    "livingRoomLights": [
+      "powerOn"
+    ],
+    "yeelight-1": [
+      "partyLightRed"
+    ],
+    "yeelight-2": [
+      "partyLightBlue"
+    ],
+    "yeelight-3": [
+      "partyLightGreen"
+    ]
+  }
+}
