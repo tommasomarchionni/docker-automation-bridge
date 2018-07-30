@@ -1,11 +1,6 @@
 # Overview
 Docker container for https://github.com/giorgoxxi/automation-bridge
 
-# Build
-```
-$ docker build --pull --rm --tag=automation-bridge .
-```
-
 # Usage
 Mount service-config and user-config to use custom configurations, see example folders in this repo.
 Container can be configured via env variables, see [Dockerfile](Dockerfile). Example: 
